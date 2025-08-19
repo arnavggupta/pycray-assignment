@@ -36,8 +36,8 @@ A modern, feature-rich event management application built with **Next-Forge Turb
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/arnavggupta/pycray-assignment.git
+   cd event-man
    ```
 
 2. **Install root dependencies**
