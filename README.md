@@ -1,6 +1,6 @@
-# 🎉 Mini Event Manager
+# Event Manager
 
-A modern, feature-rich event management application built with **Next-Forge Turbo template**, showcasing professional React development practices with **Next.js**, **TypeScript**, **Zustand**, and **React Hook Form**.
+A modern, feature-rich event management application built with **Next-Forge Turbo template** ,**Next.js**, **TypeScript**, **Zustand** also **localstorage**, and **React Hook Form**.
 
 ## ✨ Features
 
@@ -130,7 +130,7 @@ If you encounter any issues:
 3. **Port conflicts** - The app runs on `localhost:3001`
 
 
-**My mail id** : arnavgupta295@fmail.com
+**My mail id** : arnavgupta295@gmail.com
 **Phone**      : 7297822698
 
 
